@@ -1,1 +1,1 @@
-# Major-Project
+# Sentiment-Analysis-using-NLP-and-Deep-Learning
